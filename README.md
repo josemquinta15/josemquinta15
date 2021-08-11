@@ -5,8 +5,8 @@
 - 🤓 I'm currently studying Software Engineering at the Pontific Catholic University of  Chile
 - 🔭 I'm currently working on the assistantships of 
     - Software Engineering 👨‍💻 
-    - Introduction to Programming
-    - Infraestructure for Business Intelligence.
+    - Introduction to Programming 💻
+    - Infraestructure for Business Intelligence 🇧🇮.
 - 🌱 I’m currently learning everything 🤣
 <!--
 - 👯 I’m looking to collaborate on ...
