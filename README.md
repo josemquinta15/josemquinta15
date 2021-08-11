@@ -54,7 +54,8 @@
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josemquinta15&repo=SoftwareEngineeringProject)](https://github.com/josemquinta15/SoftwareEngineeringProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josemquinta15&repo=SoftwareEngineeringProject&theme=tokyonight)](https://github.com/josemquinta15/SoftwareEngineeringProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josemquinta15&repo=ImageClefMed-Tuberculosis-2021&theme=tokyonight)](https://github.com/josemquinta15/ImageClefMed-Tuberculosis-2021)
 
 
 <!-- 
