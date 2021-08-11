@@ -52,6 +52,10 @@
 
 ![José Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemquinta15&count_private=true&show_icons=true&theme=tokyonight)
 
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=josemquinta15&repo=SoftwareEngineeringProject)](https://github.com/josemquinta15/SoftwareEngineeringProject)
+
 
 <!-- 
 [website]: https://codeSTACKr.com
