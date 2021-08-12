@@ -48,6 +48,11 @@
 <br />
 <br />
 
+### My Publications
+ImageCLEF Tuberculosis Working Notes. [Click Here](https://www.dei.unipd.it/~ferro/CLEF-WN-Drafts/CLEF2021/paper-112.pdf)
+
+<br />
+
 ---
 
 ![José Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemquinta15&count_private=true&show_icons=true&theme=tokyonight)
