@@ -6,7 +6,8 @@
 - 🔭 I'm currently working on the assistantships of 
     - Software Engineering 👨‍💻 
     - Introduction to Programming 💻
-    - Infraestructure for Business Intelligence 🇧🇮.
+    - Infraestructure for Business Intelligence 📈🧠
+    - Introduction to the Major in Computer Science 🤓🖥
 - 🌱 I’m currently learning everything 🤣
 <!--
 - 👯 I’m looking to collaborate on ...
